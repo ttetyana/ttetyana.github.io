@@ -55,6 +55,7 @@ div {
 }
 
 .menu_top li:hover {
+    width: 118px;
     border-left: 1px solid #838383;
     border-right: 1px solid #838383;
     background: linear-gradient(to top, #2e2e2e, #4a4a4a);
@@ -76,6 +77,7 @@ div {
 }
 
 .sidebar li a {
+    display: block;
     color: #656363;
 }
 
